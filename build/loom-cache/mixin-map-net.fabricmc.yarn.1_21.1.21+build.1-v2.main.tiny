@@ -1,0 +1,4 @@
+v1	named	intermediary
+FIELD	net/uku3lig/totemcounter/mixin/MixinClientPlayNetworkHandler	Lnet/minecraft/client/world/ClientWorld;	world	field_3699
+FIELD	net/uku3lig/totemcounter/mixin/MixinGameRenderer	Lnet/minecraft/client/MinecraftClient;	client	field_4015
+FIELD	net/uku3lig/totemcounter/mixin/MixinInGameHud	Lnet/minecraft/client/MinecraftClient;	client	field_2035
