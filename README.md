@@ -1,11 +1,14 @@
 [![banner](https://raw.githubusercontent.com/uku3lig/totemcounter/1.19.3/banner.png)  
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/T9R7YTnA?style=for-the-badge)](https://modrinth.com/mod/totemcounter)
 
-**TotemCounter** is a mod that shows the amount of totem pops for every player above their nametag, and shows how many totems you have in your inventory!
-
 Download at [Modrinth](https://modrinth.com/mod/totemcounter)
 
 *Icon by [Marlow](https://youtube.com/@Marlowww)*
+
+**TotemCounter** is a mod that shows the amount of totem pops for every player above their nametag, and shows how many totems you have in your inventory!
+
+# Changes
+![image](https://github.com/miamionthetrack/TotemCounter/blob/master/Changes.png?raw=true)
 
 ## Features
 * Pop counter in nametag
@@ -16,9 +19,3 @@ Download at [Modrinth](https://modrinth.com/mod/totemcounter)
 
 ## Dependencies
 * [ukulib](https://github.com/uku3lig/ukulib)
-
-## Sponsors
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Tutanota_logo.svg" width=300 />
-
-Massive thanks to [Tuta](https://tuta.com) for their support!
